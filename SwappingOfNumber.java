@@ -17,6 +17,7 @@ public class SwappingOfNumber {
         System.out.println(" and "+y);
     }
     public static void main(String[] args) {
+
         Swap();
     }
 }
